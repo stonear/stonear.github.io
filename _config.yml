@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - home.markdown
+  - about.markdown
+style: dark
+footer: '<a href="https://github.com/stonear">github</a> <a href="https://www.hackerrank.com/alamstone">hackerrank</a>'
+google_analytics: UA-NNNNNNNN-N
