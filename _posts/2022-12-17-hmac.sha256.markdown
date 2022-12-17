@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "HMAC SHA256"
+date:   2022-12-17 17:00:00 +0700
+categories: cryptography
+---
+Hash-based message authentication code. Built with flutter. Try yourself [here][links].
+
+[links]: https://stonear.github.io/hmac_sha256/
